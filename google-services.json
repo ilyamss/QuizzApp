@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "145092834024",
+    "firebase_url": "https://loginquizz-c5623.firebaseio.com",
+    "project_id": "loginquizz-c5623",
+    "storage_bucket": "loginquizz-c5623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145092834024:android:670065c272a08f68",
+        "android_client_info": {
+          "package_name": "com.example.ilyamss.loginquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145092834024-tb3sslif90olhhvj9mvlhc2finrr4gnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ilyamss.loginquiz",
+            "certificate_hash": "33443377cf358923e7ae4553ef99b85de3ffac9c"
+          }
+        },
+        {
+          "client_id": "145092834024-tsnk4isah5i2skplr8acdmd294or1ta8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "145092834024-tsnk4isah5i2skplr8acdmd294or1ta8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgUCdZfPxTwQWXXVRi6zLw1LYNeDrDnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145092834024-tsnk4isah5i2skplr8acdmd294or1ta8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
